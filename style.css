@@ -143,3 +143,6 @@ ul {
   background-image: none;
   margin-bottom: 10px;
 }
+.hidden {
+  display: none;
+}
